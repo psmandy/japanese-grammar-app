@@ -1,0 +1,162 @@
+[
+  {
+    "level": "N5",
+    "pattern": "そして",
+    "usage": "文頭・文中",
+    "meaning": "然後；而且",
+    "example_ja": "朝ごはんを食べて、そして、学校へ行きました。",
+    "example_zh": "我吃了早餐，然後去了學校。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "でも",
+    "usage": "文頭",
+    "meaning": "但是",
+    "example_ja": "このかばんは高いです。でも、とてもきれいです。",
+    "example_zh": "這個包包很貴。但是，非常漂亮。"
+  },
+  {
+    "level": "N5",
+    "pattern": "だから",
+    "usage": "文頭",
+    "meaning": "所以",
+    "example_ja": "今日は寒いです。だから、コートを着ます。",
+    "example_zh": "今天很冷。所以，我要穿大衣。"
+  },
+  {
+    "level": "N5",
+    "pattern": "ですから",
+    "usage": "文頭",
+    "meaning": "所以 (比だから更禮貌)",
+    "example_ja": "明日はテストがあります。ですから、今晩勉強しなければなりません。",
+    "example_zh": "明天有考試。所以，今晚必須念書。"
+  },
+  {
+    "level": "N5",
+    "pattern": "～が、～",
+    "usage": "文中",
+    "meaning": "～，但是～",
+    "example_ja": "日本の食べ物は美味しいですが、高いです。",
+    "example_zh": "日本的食物很好吃，但是很貴。"
+  },
+  {
+    "level": "N5",
+    "pattern": "～から、～",
+    "usage": "文中",
+    "meaning": "因為～，所以～",
+    "example_ja": "時間がありませんから、急ぎましょう。",
+    "example_zh": "因為沒有時間，所以我們快一點吧。"
+  },
+  {
+    "level": "N5",
+    "pattern": "～て、～",
+    "usage": "文中 (Vて形)",
+    "meaning": "然後 (連接動詞)",
+    "example_ja": "毎朝シャワーを浴びて、会社へ行きます。",
+    "example_zh": "我每天早上淋浴，然後去公司。"
+  },
+  {
+    "level": "N5",
+    "pattern": "～くて、～",
+    "usage": "文中 (Aい形)",
+    "meaning": "既～又～ (連接い形容詞)",
+    "example_ja": "この部屋は広くて、明るいです。",
+    "example_zh": "這個房間既寬敞又明亮。"
+  },
+  {
+    "level": "N5",
+    "pattern": "～で、～",
+    "usage": "文中 (Aな形/名詞)",
+    "meaning": "既～又～ (連接な形容詞或名詞)",
+    "example_ja": "彼は親切で、ハンサムです。",
+    "example_zh": "他又親切又帥氣。"
+  },
+  {
+    "level": "N5",
+    "pattern": "まず",
+    "usage": "文頭",
+    "meaning": "首先",
+    "example_ja": "まず、手を洗ってください。",
+    "example_zh": "首先，請洗手。"
+  },
+  {
+    "level": "N5",
+    "pattern": "次に",
+    "usage": "文頭",
+    "meaning": "接著；下一步",
+    "example_ja": "次に、野菜を切ります。",
+    "example_zh": "接著，要切菜。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。然後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "じゃあ",
+    "usage": "文頭",
+    "meaning": "那麼",
+    "example_ja": "じゃあ、また明日会いましょう。",
+    "example_zh": "那麼，我們明天再見吧。"
+  },
+  {
+    "level": "N5",
+    "pattern": "では",
+    "usage": "文頭",
+    "meaning": "那麼 (比じゃあ更正式)",
+    "example_ja": "では、これで会議を終わります。",
+    "example_zh": "那麼，會議到此結束。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  },
+  {
+    "level": "N5",
+    "pattern": "それから",
+    "usage": "文頭",
+    "meaning": "然後；在那之後",
+    "example_ja": "まず宿題をします。それから、テレビを見ます。",
+    "example_zh": "我先做作業。在那之後，再看電視。"
+  }
+]
